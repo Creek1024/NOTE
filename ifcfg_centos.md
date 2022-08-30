@@ -1,4 +1,4 @@
-# 配置Linux网卡
+#    配置Linux网卡
 
 1. `cd /etc/sysconfig/network-scripts/`
 
@@ -17,6 +17,12 @@
 4. 完成网络配置
 
    
+
+   # 修改hostname
+
+   * `vi cd /etc/sysconfig/network`
+
+     
 
    
 
