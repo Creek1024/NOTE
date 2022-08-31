@@ -10,13 +10,14 @@
 
    打开**ONBOOT**服务
 
+   <img src="https://cdn.jsdelivr.net/gh/Creek1024/Typora_img/img/image-20220831210930671.png" alt="image-20220831210930671" style="zoom: 67%;float: left" />
+
    记得 `service network restart`
 
    测试：ping www.baidu.com
 
-4. 完成网络配置
+4. 完成网络配置	
 
-***
  ## 修改hostname
 
    * centos6: `vi cd /etc/sysconfig/network`
