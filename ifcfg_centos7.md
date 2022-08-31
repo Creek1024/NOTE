@@ -10,7 +10,7 @@
 
    打开**ONBOOT**服务
 
-   记得**restart network service**
+   记得 `service network restart`
 
    测试：ping www.baidu.com
 
