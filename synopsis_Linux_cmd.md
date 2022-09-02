@@ -30,7 +30,14 @@
 
 <u>***example:***</u> ![image-20220901165453991](https://cdn.jsdelivr.net/gh/Creek1024/Typora_img/img/image-20220901165453991.png)
 
+***
 
+## echo command
 
+<u>***syntax：***</u> `echo [***]`
 
+<u>***synopsis:***</u> just like `system.out.print`  in java
 
+<u>***example:***</u>  easy to demonstration 
+
+ 
