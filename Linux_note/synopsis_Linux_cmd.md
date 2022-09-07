@@ -40,4 +40,15 @@
 
 <u>***example:***</u>  easy to demonstration 
 
- 
+ #### **add**： echo $$ print technical information that status of active  processes on the system
+
+***
+
+### ps -ef
+
+***<u>syntax</u>***:  `ps -ef`
+
+<u>***synopsis:***</u>    just print all active processes on a system
+
+***
+
